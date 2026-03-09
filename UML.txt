@@ -1,0 +1,95 @@
+           +-----------------------------------------+
+           |                 Alpha                   |
+           +-----------------------------------------+
+           | - usernameA: string[10]                 |
+           | - passwordsA: string[10]                |
+           | - rolesA: string[10]                    |
+           | - userCount: int                        |
+           | - total, a, op: int                     |
+           | - mtotal: int                           |
+           | - pur_total: int                        |
+           | - temptotal: int                        |
+           | - admin_option: char                    |
+           | - user_option: char                     |
+           | - count_stock: int                      |
+           | - product_nameA: string[20]             |
+           | - add_quantityA: float[20]              |
+           | - add_purchaseA: float[20]              |
+           | - add_priceA: float[20]                 |
+           | - add_em_name: string[20]               |
+           | - add_em_type: string[20]               |
+           | - add_em_salary: int[20]                |
+           | - count_employee: int                   |
+           | - add_cust_name: string[20]             |
+           | - add_cust_product: string[20]          |
+           | - add_cust_quantity: int[20]            |
+           | - add_cust_date: string[20]             |
+           | - add_cust_total: int[20]               |
+           | - left_quantity: int[20]                |
+           | - count_customer: int                   |
+           | - cust_name: string                     |
+           | - cust_product: string                  |
+           | - date: string                          |
+           | - cust_quantity: int                    |
+           | - totalprice: int                       |
+           | - loginusername: string                 |
+           | - product: string                       |
+           | - quantity, purch, price: float         |
+           +-----------------------------------------+
+           | + mainHeader(): void                    |
+           | + loginMenu(): string                   |
+           | + adminMenu(): char                     |
+           | + UserMenu(): char                      |
+           | + printbill(): void                     |
+           | + updatestock(): void                   |
+           | + addNewUser(): void                    |
+           | + addUser(string, string, string): void |
+           | + load_user(): void                     |
+           | + store_user(): void                    | 
+           +-----------------------------------------+                                                              
+                             ▲                                                                         
+                             |                                                                          
+                             |                                                                          
++----------------------------------------------------------------+    
+|                             Beta                               |
++----------------------------------------------------------------+    
+|                   (inherited all from Alpha)                   |  
++----------------------------------------------------------------+    
+| + addstock(): void                                             |  
+| + addStockIntoArray(string, float, float, float): void         |  
+| + load_stock(): void                                           |  
+| + store_stock(): void                                          |  
+|                                                                |  
+| + addemployee(): void                                          |  
+| + addemployeeintoarray(string, string, int): void              |     
+| + load_employee(): void                                        |                                                                                  
+| + store_employee(): void                                       | 
+| + addcustomer(): void                                          |
+| + addCustomerintoarray(string, string, int, int, string): void |
+| + load_customer(): void                                        |
+| + store_customer(): void                                       |
+| + ViewCustomer(): void                                         |
+|                                                                |
+| + largest(int x): int                                          |
+| + print_Recd(): void                                           |
++----------------------------------------------------------------+
+                              ▲                                                                         
+                              |                                                                          
+                              | 
+       +-----------------------------------------------+  
+       |                     Gama                      |
+       +-----------------------------------------------+  
+       |           (inherited all from Alpha)          |
+       +-----------------------------------------------+  
+       | + Dailysalerecord(): void                     |
+       | + Monthlysalerecord(): void                   |
+       | + leftproducts(): void                        |
+       | + viewprofitloss(): void                      |
+       | + recordofemployee(): void                    |
+       | + viewproducts(): void                        |
+       +-----------------------------------------------+
+
+
+
+
+

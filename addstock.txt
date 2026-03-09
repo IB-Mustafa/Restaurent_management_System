@@ -1,0 +1,9 @@
+Burger	25	320	450
+Donut	18	140	290
+Toast	33	250	390
+Steak	27	310	470
+Fries	44	190	280
+Rolls	38	230	350
+Patty	31	260	410
+Burger	24	320	450
+

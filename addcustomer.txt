@@ -1,0 +1,9 @@
+Mohsan	Pizza	4	3680	23-08-2025
+Usman	Pizza	3	1350	24-08-2025
+Nida	pasta	5	1050	25-08-2025
+Hina	Wraps	4	1600	26-08-2025
+Asad	pizza	2	1960	26-08-2025
+Tariq	Pasta	6	1260	27-08-2025
+Saba	Pizza	2	1800	27-08-2025
+
+

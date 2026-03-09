@@ -1,0 +1,2 @@
+MANAGER themanager MANAGER
+CASHIER thecashier CASHIER

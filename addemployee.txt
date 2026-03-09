@@ -1,0 +1,10 @@
+Ali     Chef      30000
+Sara    Waiter    28000
+Umar    Manager   45000
+Zoya    Cashier   32000
+Raza    Cleaner   25000
+Nida    Server    29000
+Fahad   Helper    26000
+Maham   Baker     31000
+Omar    Guard     27000
+Areeb   Driver    30000
